@@ -35,7 +35,7 @@ var lengthOfLongestSubstring = function (s) {
             max = Math.max(max, j - i);
         }
         else {
-            delete map[s[i]];
+            delete map[s[j]];
             i++;
         }
     }
