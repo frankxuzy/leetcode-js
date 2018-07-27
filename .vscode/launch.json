@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/5-Longest-Palindromic-Substring.js",
+      "program": "${workspaceFolder}/6-ZigZag-Conversion.js",
       "outFiles": [
         "${workspaceFolder}/**/*.js"
       ]
